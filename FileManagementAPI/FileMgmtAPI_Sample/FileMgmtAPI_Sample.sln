@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "FileMgmtAPI_Sample", "FileMgmtAPI_Sample\FileMgmtAPI_Sample.hmiproj", "{D77C4560-FE3C-41BD-856C-4A45A5A34404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77C4560-FE3C-41BD-856C-4A45A5A34404}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{D77C4560-FE3C-41BD-856C-4A45A5A34404}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{D77C4560-FE3C-41BD-856C-4A45A5A34404}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{D77C4560-FE3C-41BD-856C-4A45A5A34404}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF55D66B-27BC-4DFA-B4CC-092948ED9C92}
+	EndGlobalSection
+EndGlobal

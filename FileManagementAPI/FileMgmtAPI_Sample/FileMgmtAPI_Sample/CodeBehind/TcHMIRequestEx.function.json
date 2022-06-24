@@ -1,0 +1,30 @@
+﻿{
+  "function": {
+    "name": "TcHMIRequestEx",
+    "namespace": "TcHmi.Functions.FileMgmtAPI_Sample",
+    "displayName": "TcHMIRequestEx",
+    "description": "",
+    "waitMode": "Synchronous",
+    "category": "",
+    "returnValue": {
+      "type": "tchmi:general#/definitions/String"
+    },
+    "visible": true,
+    "injectContextObject": false,
+    "arguments": [
+      {
+        "name": "ReqSymbol",
+        "displayName": "ReqSymbol",
+        "type": "tchmi:general#/definitions/Any",
+        "description": "This is an important Parameter which does... This text is used in a tooltip.",
+        "defaultValue": "",
+        "required": true,
+        "bindable": true,
+        "restParameter": false,
+        "asReference": false,
+        "allowControlAttributeBindingOptions": false
+      }
+    ]
+  },
+  "$schema": "../.hmiframework/Schema/FunctionDescription.Schema.json"
+}
